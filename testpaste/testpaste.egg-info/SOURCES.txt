@@ -1,0 +1,9 @@
+setup.cfg
+setup.py
+testpaste/__init__.py
+testpaste.egg-info/PKG-INFO
+testpaste.egg-info/SOURCES.txt
+testpaste.egg-info/dependency_links.txt
+testpaste.egg-info/entry_points.txt
+testpaste.egg-info/top_level.txt
+testpaste.egg-info/zip-safe

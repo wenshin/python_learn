@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: testpaste
+Version: 0.1.0dev
+Summary: Test the paster tool usage
+Home-page: www.knownsec.com
+Author: wenshin
+Author-email: wenshin2011@gmail.com
+License: Apache 2
+Description: Hei it is work
+Keywords: test,pastescript
+Platform: UNKNOWN

@@ -1,3 +1,5 @@
+# coding: utf-8
+
 class AA(object):
     aa = 1
 
