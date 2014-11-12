@@ -55,6 +55,8 @@ LOGGING = {
         },
     },
     'loggers': {
+        # 如果新增 django.file logger 注意 propagate 问题
+        # 可以通过设置propagate: False 阻止向父logger传递
         'django': {
             'level': 'ERROR',
             'handlers': ['file', 'console'],
